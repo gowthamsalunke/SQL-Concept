@@ -1,2 +1,0 @@
-# SQL-Concept
-SQL Concepts
